@@ -7,7 +7,7 @@ The framework builds on grounded theory findings from nursing professionals, dis
 
 ---
 
-## 🧠 CARE-ITS Pillars Explained
+## CARE-ITS Pillars Explained
 
 | Pillar | Description |
 |--------|-------------|
@@ -21,7 +21,7 @@ The framework builds on grounded theory findings from nursing professionals, dis
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 🔧 Local (Python ≥3.8)
 
@@ -30,16 +30,16 @@ pip install -r requirements.txt
 streamlit run care_its_checklist_app.py
 ```
 
-### 🌐 Streamlit Cloud
+### Streamlit Cloud
 
 1. Push this repository to GitHub.
 2. Go to https://streamlit.io/cloud
 3. Click **“Deploy”** and paste your GitHub repo URL.
-4. Done! 🎉
+4. Done! 
 
 ---
 
-## 📊 Features
+## Features
 
 - Scored checklist (Yes / Partially / No)
 - Individual scores by CARE-ITS pillar
@@ -49,7 +49,7 @@ streamlit run care_its_checklist_app.py
 
 ---
 
-## 👩‍⚕️ Who Should Use This?
+## Who Should Use This?
 
 - **Nursing institutions** preparing for AI integration
 - **AI developers** designing educational tools for nurses
@@ -57,6 +57,6 @@ streamlit run care_its_checklist_app.py
 
 ---
 
-## 📬 Contact
+##  Contact
 
 If you use this tool or adapt it in your work, feel free to [open an issue](https://github.com/yourrepo/issues) or reach out.
