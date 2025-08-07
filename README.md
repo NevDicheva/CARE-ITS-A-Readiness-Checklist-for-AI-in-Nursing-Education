@@ -3,7 +3,7 @@
 
 This is a Streamlit-based interactive checklist designed to evaluate institutional and developer readiness for implementing AI technologies in nursing education using the CARE-ITS framework.
 
-## 🧩 CARE-ITS Pillars
+##  CARE-ITS Pillars
 
 - **Cognitive-First**: Focus on knowledge and reasoning tasks before integrating AI into complex domains like affective or psychomotor learning.
 - **Awareness**: Ensure learners and staff understand what AI is and isn’t, debunk myths, and promote clarity.
