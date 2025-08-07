@@ -13,14 +13,14 @@ This is a Streamlit-based interactive checklist designed to evaluate institution
 - **Time**: Provide enough time for adaptation without overwhelming users with mandatory tasks.
 - **System Evaluation**: Commit to feedback loops, pilot testing, and meaningful metrics of success.
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 pip install streamlit matplotlib
 streamlit run care_its_checklist_app.py
 ```
 
-## 📈 Features
+## Features
 
 - Radio-button scoring system (Yes / Partially / No)
 - Category-wise scoring and overall readiness % score
